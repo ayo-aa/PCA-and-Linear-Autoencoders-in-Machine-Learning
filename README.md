@@ -1,5 +1,11 @@
 # PCA-and-Linear-Autoencoders-in-Machine-Learning
 
+## Research paper
+
+[Read the paper (PDF)](paper/dimensionality-reduction-pca-linear-autoencoders.pdf): *Dimensionality Reduction Techniques: A Comparison of Principal Component Analysis and Linear Autoencoders on the MNIST Dataset*.
+
+Nick Meyer, Ayo Adetayo, Joshua Were, Roger Fortunato, and Arjun Purohit. Columbia University, December 15, 2025.
+
 **Summary:** The following repository contains the construction, implementation, and analysis of Linear Autoencoders and Principal Component Analysis, also known as PCA, in Machine Learning. This a collaborative project that combines essential 
 concepts in linear algebra such as eigendecomposition and linear transformations. Our goal of this project is to build classification models using an Autoencoder and PCA, run the models on the MNIST dataset, analyze outputs, and string together a comprehensive research document that ties together the operations used in this repository.
 
